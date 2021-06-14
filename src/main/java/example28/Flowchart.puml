@@ -1,0 +1,9 @@
+@startuml
+'https://plantuml.com/class-diagram
+class Application
+class ADD
+
+Application o-> ADD
+
+
+@enduml
